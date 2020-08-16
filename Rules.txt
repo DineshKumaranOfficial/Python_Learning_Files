@@ -5,3 +5,4 @@
   1 - Local Variable
   2 - Parent Local Variable
   3 - Global Variable
+  4 - Built-in functions
