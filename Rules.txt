@@ -1,0 +1,7 @@
+# Args and Keyword Args
+  Arguments order : params, *args, default parameters, **keywordargs
+
+# Scope Priority
+  1 - Local Variable
+  2 - Parent Local Variable
+  3 - Global Variable
